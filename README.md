@@ -13,3 +13,7 @@ Task : 2 : initiallu Sum variable   is initialized to 0 . Taken a for loop which
 Assignment :3
 Task : 1 ==>   factorial function takes num as input and check if the num =1 , it returns 1 else it calculaytes the factorial of the given number by calling the same fucntion recursivly .
 Task :2 ==>  this program taken a float number as input from user and using math module math.sqrt ,math.log ,math.sin it calculates the sqrt , log and sin of the input number and displays the result 
+Assignment :4 
+Task 1 : ==>It opens a and reads a file if  it exists, else shows exception to the user 
+Task 2 : ==> It takes user input and writes to the file and append the content to the file .
+
